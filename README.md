@@ -6,7 +6,7 @@
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Virkkunen&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/Virkkunen">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virkkunen&layout=compact&langs_count=7&theme=nord" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virkkunen&layout=compact&langs_count=8&theme=nord" />
   </a>
 </div>
 <div align="center">

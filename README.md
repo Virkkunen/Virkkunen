@@ -1,13 +1,14 @@
 ### Hi there 👋 I'm Fred, I'm a Web Dev student at [Trybe](https://betrybe.com) and a Tech Support Analyst at Accenture Brasil.
 
 ---
-
 <div align="center">
   <a href="https://github.com/Virkkunen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Virkkunen&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virkkunen&layout=compact&langs_count=7&theme=rose_pine"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Virkkunen&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Virkkunen">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virkkunen&layout=compact&langs_count=7&theme=nord" />
+  </a>
 </div>
-<br>
 <div align="center">
   <h3>Languages</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,3 +33,12 @@
  <a href = "mailto:vrkknn@vrkknn.net"><img src="https://img.shields.io/badge/-vrkknn@vrkknn.net-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/fredalmeida-" target="_blank"><img src="https://img.shields.io/badge/-fredalmeida---%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<br>
+<div align="center">
+  <h2>Portfolio</h2>
+  <a href="https://github.com/Virkkunen/trybe>
+    <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Virkkunen&repo=trybe&theme=nord" />
+   </a>
+</div>
+
+

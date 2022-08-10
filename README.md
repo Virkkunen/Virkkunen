@@ -37,7 +37,7 @@
 <div align="center">
   <h2>Portfolio</h2>
   <a href="https://github.com/Virkkunen/trybe>
-    <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Virkkunen&repo=trybe&theme=nord" />
+    <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Virkkunen&repo=trybe" />
    </a>
 </div>
 

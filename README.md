@@ -36,8 +36,8 @@
 <br>
 <div align="center">
   <h2>Portfolio</h2>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virkkunen&repo=trybe&theme=nord" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virkkunen&repo=virkkunen.github.io&theme=nord" />
-</div>
+   <a href="https://github.com/Virkkunen/trybe"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virkkunen&repo=trybe&theme=nord" /></a>
+   <a href="https://github.com/Virkkunen/virkkunen.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virkkunen&repo=virkkunen.github.io&theme=nord" />
+</div></a>
 
 

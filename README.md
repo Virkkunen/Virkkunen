@@ -3,10 +3,10 @@
 ---
 <div align="center">
   <a href="https://github.com/Virkkunen">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Virkkunen&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Virkkunen&show_icons=true&include_all_commits=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
   </a>
   <a href="https://github.com/Virkkunen">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virkkunen&layout=compact&langs_count=8&theme=nord" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virkkunen&layout=compact&langs_count=8&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
   </a>
 </div>
 <div align="center">
@@ -36,8 +36,8 @@
 <br>
 <div align="center">
   <h2>Portfolio</h2>
-   <a href="https://github.com/Virkkunen/trybe"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virkkunen&repo=trybe&theme=nord" /></a>
-   <a href="https://github.com/Virkkunen/virkkunen.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virkkunen&repo=virkkunen.github.io&theme=nord" />
+   <a href="https://github.com/Virkkunen/trybe"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virkkunen&repo=trybe&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" /></a>
+   <a href="https://github.com/Virkkunen/virkkunen.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virkkunen&repo=virkkunen.github.io&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div></a>
 
 

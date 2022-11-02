@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Fred, I'm a Web Dev student at [Trybe](https://betrybe.com) and a Tech Support Analyst at Accenture Brasil.
+### Hi there 👋 I'm Fred, I'm a Web Dev student at [Trybe](https://betrybe.com).
 
 ---
 <div align="center">

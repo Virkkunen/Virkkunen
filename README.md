@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Fred, I'm a Web Dev student at [Trybe](https://betrybe.com).
 
 <div>
-  <h2>Contact me </h2>
+  <h3>Contact me </h3>
   <a href="https://t.me/vrkknn" target="_blank"><img src="https://img.shields.io/badge/-vrkknn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vrkknn@vrkknn.net"><img src="https://img.shields.io/badge/-vrkknn@vrkknn.net-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fredalmeida-" target="_blank"><img src="https://img.shields.io/badge/-fredalmeida---%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

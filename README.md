@@ -79,10 +79,10 @@
 ---
 <div align="left">
   <a href="https://github.com/Virkkunen">
-    <img align="center" height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Virkkunen&show_icons=true&include_all_commits=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+    <img align="center" height="180em" src="https://github-readme-stats-pv9rc61m5-virkkunen.vercel.app/api?username=Virkkunen&show_icons=true&include_all_commits=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
   </a>
   <a href="https://github.com/Virkkunen">
-    <img align="center" height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Virkkunen&layout=compact&langs_count=8&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+    <img align="center" height="180em" src="https://github-readme-stats-pv9rc61m5-virkkunen.vercel.app/api/top-langs/?username=Virkkunen&layout=compact&langs_count=8&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
   </a>
 </div>
 <br>
@@ -90,7 +90,7 @@
 <br>
 <div align="left">
   <h2>Portfolio</h2>
-   <a href="https://github.com/Virkkunen/trybe"><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=Virkkunen&repo=trybe&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" /></a>
-   <a href="https://github.com/Virkkunen/virkkunen.github.io"><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=Virkkunen&repo=virkkunen.github.io&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-<a href="https://github.com/Virkkunen/timer"><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=Virkkunen&repo=timer&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+   <a href="https://github.com/Virkkunen/trybe"><img align="center" src="https://github-readme-stats-pv9rc61m5-virkkunen.vercel.app/api/pin/?username=Virkkunen&repo=trybe&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" /></a>
+   <a href="https://github.com/Virkkunen/virkkunen.github.io"><img align="center" src="https://github-readme-stats-pv9rc61m5-virkkunen.vercel.app/api/pin/?username=Virkkunen&repo=virkkunen.github.io&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+<a href="https://github.com/Virkkunen/timer"><img align="center" src="https://github-readme-stats-pv9rc61m5-virkkunen.vercel.app/api/pin/?username=Virkkunen&repo=timer&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div></a>

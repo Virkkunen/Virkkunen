@@ -2,7 +2,7 @@
 
 <div>
   <h3>My home</h3>
-    <a href="https://vrkknn.net" target="_blank">vrkknn.net</a>
+    <a href="https://vrkknn.net" target="_blank"><img src="https://img.shields.io/badge/-vrkknn.net-f38ba8?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
   <h3>Contact me </h3>
   <a href="https://t.me/vrkknn" target="_blank"><img src="https://img.shields.io/badge/-vrkknn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vrkknn@vrkknn.net"><img src="https://img.shields.io/badge/-vrkknn@vrkknn.net-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>

@@ -11,7 +11,7 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&fontFamily=Fira%20Sans&lineCount=2&theme=catppuccin_mocha&line1=javascript,javascript,f9e2af;react,react,89dceb;redux,redux,cba6f7;testing%20library,rtl,f38ba8;&line2=python,python,74c7ec;docker,docker,74c7ec;node.js,node.js,a6e3a1;mongodb,mongodb,94e2d5;" alt="My Tech Stack" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=catppuccin_mocha&line1=javascript,JavaScript,f9e2af;react,React,74c7ec;redux,Redux,cba6f7;Node.js,Node.js,a6e3a1;&line2=TypeScript,TypeScript,89b4fa;express,Express,585b70;docker,Docker,74c7ec;MySQL,MySQL,89b4fa;" alt="My Tech Stack" />
 </div>
 <div align="center">
   <a href="https://github.com/Virkkunen">

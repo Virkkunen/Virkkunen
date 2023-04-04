@@ -26,6 +26,6 @@
     <a href="https://github.com/Virkkunen/virkkunen.github.io"><img align="center" src="https://github-readme-stats-pv9rc61m5-virkkunen.vercel.app/api/pin/?username=Virkkunen&repo=virkkunen.github.io&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
     <a href="https://github.com/Virkkunen/timer"><img align="center" src="https://github-readme-stats-pv9rc61m5-virkkunen.vercel.app/api/pin/?username=Virkkunen&repo=timer&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
       <a href="https://github.com/Virkkunen/dice"><img align="center" src="https://github-readme-stats-pv9rc61m5-virkkunen.vercel.app/api/pin/?username=Virkkunen&repo=dice&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-    <a href="https://github.com/Virkkunen/trybe"><img align="center" src="https://github-readme-stats-pv9rc61m5-virkkunen.vercel.app/api/pin/?username=Virkkunen&repo=trybe&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+    <a href="https://github.com/Virkkunen/weather"><img align="center" src="https://github-readme-stats-pv9rc61m5-virkkunen.vercel.app/api/pin/?username=Virkkunen&repo=weather&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
   </div>
 </div>

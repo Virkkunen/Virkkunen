@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Fred, I'm a Web Dev student at [Trybe](https://betrybe.com).
+# Hi there 👋 I'm Fred, I'm a Developer!
 
 <div>
   <h3>My home</h3>

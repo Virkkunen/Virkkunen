@@ -10,9 +10,9 @@
 </div>
 
 ---
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?fontFamily=Fira%20Sans&showBorder=false&lineCount=2&theme=catppuccin_mocha&line1=javascript,JavaScript,f9e2af;react,React,74c7ec;redux,Redux,cba6f7;Node.js,Node.js,a6e3a1;&line2=TypeScript,TypeScript,89b4fa;express,Express,585b70;docker,Docker,74c7ec;MySQL,MySQL,89b4fa;" alt="My Tech Stack" />
-</div>
+</div> -->
 <div align="center">
   <a href="https://github.com/Virkkunen">
     <img align="center" height="180em" src="https://github-readme-stats-pv9rc61m5-virkkunen.vercel.app/api?username=Virkkunen&show_icons=true&include_all_commits=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
